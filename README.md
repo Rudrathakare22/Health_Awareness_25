@@ -12,10 +12,15 @@ Health Awareness is an Android application designed to promote healthy lifestyle
 - Medicine Reminders
 - Health Progress Calculation
 
+
 ## Technologies Used
+
 - Java
 - XML
 - Android Studio
+- Android SDK
+
+
 
 ## Purpose
 The main purpose of this application is to encourage people to follow healthy habits and stay aware of their health.
