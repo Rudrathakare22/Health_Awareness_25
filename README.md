@@ -6,7 +6,7 @@ Health Awareness is an Android application designed to promote healthy lifestyle
 ## Features
 - User Login and Registration
 - Daily Health Tips
-- Health Awareness Information
+- Health Awareness Information 
 - Water Drinking Reminders
 - Exercise Reminders
 - Medicine Reminders
